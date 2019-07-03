@@ -1,4 +1,4 @@
-package pingak9.com.note_app
+package com.pingak9.note_app
 
 import android.os.Bundle
 
